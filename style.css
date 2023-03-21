@@ -1,3 +1,14 @@
 .background{
-    background-image: url('images/2.jpg');
+    background-image: url('images/3.jpg');
+}
+
+.container{
+
+    text-align: center;
+}
+
+.text{
+
+    color: white;
+    font-family: 'Love Ya Like A Sister', cursive;
 }
