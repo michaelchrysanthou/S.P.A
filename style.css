@@ -2,13 +2,18 @@
     background-image: url('images/3.jpg');
 }
 
-.container{
-
-    text-align: center;
-}
 
 .text{
 
     color: white;
     font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.rp{
+
+    color: white;
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: left;
+    text-decoration: none;
+    
 }
